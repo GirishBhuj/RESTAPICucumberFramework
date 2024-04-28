@@ -1,0 +1,4 @@
+15:59:41.377 [main] INFO  resources.Utils - Inside CreateRequestSpecification(): io.restassured.internal.RequestSpecificationImpl@4c447c09
+15:59:41.512 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Zbanhouse Language:Marathi AddressSun City mart mall Phone number(+91) 983 893 3937 Web sitehttps://rahulshettyacademy.com
+15:59:42.756 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside User calls HTTP request with resource:AddPlaceAPI Method:POST
+15:59:45.975 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside API calls got success with status code:200

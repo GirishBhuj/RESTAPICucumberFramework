@@ -1,0 +1,31 @@
+15:59:45.991 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside response body key value:status Expected value: OK
+15:59:47.737 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside response body key value:scope Expected value: APP
+15:59:47.937 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside User calls HTTP request with resource:getPlaceAPI Method:GET
+15:59:49.141 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside Verify place ID is crerated Expected Name:Zbanhouse Resource: getPlaceAPI
+16:18:37.140 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside Add place payload with name: Zbanhouse Language:Marathi AddressSun City mart mall
+16:18:38.131 [main] INFO  resources.Utils - Inside CreateRequestSpecification(): io.restassured.internal.RequestSpecificationImpl@532e27ab
+16:18:38.207 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Zbanhouse Language:Marathi AddressSun City mart mall Phone number(+91) 983 893 3937 Web sitehttps://rahulshettyacademy.com
+16:18:38.797 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside User calls HTTP request with resource:AddPlaceAPI Method:POST
+16:18:40.611 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside API calls got success with status code:200
+16:18:40.616 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside response body key value:status Expected value: OK
+16:18:41.774 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside response body key value:scope Expected value: APP
+16:18:41.816 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside User calls HTTP request with resource:getPlaceAPI Method:GET
+16:18:42.869 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside Verify place ID is crerated Expected Name:Zbanhouse Resource: getPlaceAPI
+16:20:14.965 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside Add place payload with name: Zbanhouse Language:Marathi AddressSun City mart mall
+16:20:15.993 [main] INFO  resources.Utils - Inside CreateRequestSpecification(): io.restassured.internal.RequestSpecificationImpl@532e27ab
+16:20:16.056 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Zbanhouse Language:Marathi AddressSun City mart mall Phone number(+91) 983 893 3937 Web sitehttps://rahulshettyacademy.com
+16:20:16.642 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside User calls HTTP request with resource:AddPlaceAPI Method:POST
+16:20:18.447 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside API calls got success with status code:200
+16:20:18.453 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside response body key value:status Expected value: OK
+16:20:19.557 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside response body key value:scope Expected value: APP
+16:20:19.602 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside User calls HTTP request with resource:getPlaceAPI Method:GET
+16:20:20.730 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside Verify place ID is crerated Expected Name:Zbanhouse Resource: getPlaceAPI
+16:32:43.078 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside Add place payload with name: Zbanhouse Language:Marathi AddressSun City mart mall
+16:32:44.260 [main] INFO  resources.Utils - Inside CreateRequestSpecification(): io.restassured.internal.RequestSpecificationImpl@1cdc1bbc
+16:32:44.339 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Zbanhouse Language:Marathi AddressSun City mart mall Phone number(+91) 983 893 3937 Web sitehttps://rahulshettyacademy.com
+16:32:45.098 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside User calls HTTP request with resource:AddPlaceAPI Method:POST
+16:32:47.291 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside API calls got success with status code:200
+16:32:47.295 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside response body key value:status Expected value: OK
+16:32:48.484 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside response body key value:scope Expected value: APP
+16:32:48.538 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside User calls HTTP request with resource:getPlaceAPI Method:GET
+16:32:49.576 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside Verify place ID is crerated Expected Name:Zbanhouse Resource: getPlaceAPI

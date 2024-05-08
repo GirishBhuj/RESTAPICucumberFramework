@@ -1,6 +1,6 @@
 Feature: Verify Add place API
 
-@PlaceOrderTests
+@AddPlaceTest
 Scenario: Verify if Place is being Succesfully added using AddPlaceAPI  
 	Given Add Place Payload with "<name>"  "<language>" "<address>"
 	When user calls "AddPlaceAPI" with "POST" http request

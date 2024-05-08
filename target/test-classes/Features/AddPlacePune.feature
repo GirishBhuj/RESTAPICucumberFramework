@@ -1,6 +1,6 @@
 Feature: Verify Add place API
 
-@AddPlaceTest
+@AddPunePlaceTest
 Scenario: Verify if Place is being Succesfully added using AddPlaceAPI  
 	Given Add Place Payload with "<name>"  "<language>" "<address>"
 	When user calls "AddPlaceAPI" with "POST" http request
@@ -11,6 +11,5 @@ Scenario: Verify if Place is being Succesfully added using AddPlaceAPI
 	
 Examples:
 	|name 	 | language |address		       |
-	|Habanhouse |  Marathi |Sun City mart mall|
+	|Dhanaji |  Maratha |Pune City mart mall|
 #	|BBhouse | Spanish  |Sea cross center  |
-	 

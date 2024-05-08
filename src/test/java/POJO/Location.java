@@ -3,6 +3,7 @@ package POJO;
 public class Location {
 private double lat;
 private double lng;
+
 public double getLat() {
 	return lat;
 }

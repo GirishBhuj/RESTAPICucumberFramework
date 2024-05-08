@@ -31,14 +31,14 @@ public class TestDataBuild {
 		mLocation.setLng(33.427362);
 		mPlaceDtls.setLocation(mLocation);
 	
-  		logger.info("Inside TestDataBulild() : "
+  		/* logger.info("Inside TestDataBulild() : "
   				+ name +
   				" Language:"+ language + 
   				" Address"+ address + 
   				" Phone number"+ mPlaceDtls.getPhone_number() + 
   				" Web site"+ mPlaceDtls.getWebsite() 
   				);
-
+*/
 		return mPlaceDtls;
 	}
 	

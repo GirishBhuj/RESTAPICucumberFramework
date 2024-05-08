@@ -29,3 +29,422 @@
 16:32:48.484 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside response body key value:scope Expected value: APP
 16:32:48.538 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside User calls HTTP request with resource:getPlaceAPI Method:GET
 16:32:49.576 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside Verify place ID is crerated Expected Name:Zbanhouse Resource: getPlaceAPI
+19:07:45.858 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside Add place payload with name: Habanhouse Language:Marathi AddressSun City mart mall
+19:07:47.277 [main] INFO  resources.Utils - Inside CreateRequestSpecification(): io.restassured.internal.RequestSpecificationImpl@4c7e978c
+19:07:47.347 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Habanhouse Language:Marathi AddressSun City mart mall Phone number(+91) 983 893 3900 Web sitehttps://bamburda.com
+19:07:47.948 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside User calls HTTP request with resource:AddPlaceAPI Method:POST
+19:07:49.850 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside API calls got success with status code:200
+19:07:49.853 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside response body key value:status Expected value: OK
+19:07:50.921 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside response body key value:scope Expected value: APP
+19:07:50.969 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside User calls HTTP request with resource:getPlaceAPI Method:GET
+19:07:52.280 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside Verify place ID is crerated Expected Name:Habanhouse Resource: getPlaceAPI
+19:14:01.305 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside Add place payload with name: Habanhouse Language:Marathi AddressSun City mart mall
+19:14:02.908 [main] INFO  resources.Utils - Inside CreateRequestSpecification(): io.restassured.internal.RequestSpecificationImpl@22ebccb9
+19:14:03.003 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Habanhouse Language:Marathi AddressSun City mart mall Phone number(+91) 983 893 3900 Web sitehttps://bamburda.com
+19:14:03.882 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside User calls HTTP request with resource:AddPlaceAPI Method:POST
+19:14:06.631 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside API calls got success with status code:200
+19:14:06.631 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside response body key value:status Expected value: OK
+19:14:07.922 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside response body key value:scope Expected value: APP
+19:14:08.000 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside User calls HTTP request with resource:getPlaceAPI Method:GET
+19:14:09.084 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside Verify place ID is crerated Expected Name:Habanhouse Resource: getPlaceAPI
+22:45:05.692 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside Add place payload with name: Habanhouse Language:Marathi AddressSun City mart mall
+22:45:06.869 [main] INFO  resources.Utils - Inside CreateRequestSpecification(): io.restassured.internal.RequestSpecificationImpl@6d0b0da6
+22:45:06.936 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Habanhouse Language:Marathi AddressSun City mart mall Phone number(+91) 983 893 3900 Web sitehttps://bamburda.com
+22:45:07.557 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside User calls HTTP request with resource:AddPlaceAPI Method:POST
+22:45:09.521 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside API calls got success with status code:200
+22:45:09.526 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside response body key value:status Expected value: OK
+22:45:10.524 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside response body key value:scope Expected value: APP
+22:45:10.578 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside User calls HTTP request with resource:getPlaceAPI Method:GET
+22:45:11.495 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside Verify place ID is crerated Expected Name:Habanhouse Resource: getPlaceAPI
+22:45:11.514 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside Add place payload with name: Dhanaji Language:Maratha AddressPune City mart mall
+22:45:11.515 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Dhanaji Language:Maratha AddressPune City mart mall Phone number(+91) 983 893 3900 Web sitehttps://bamburda.com
+22:45:11.518 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside User calls HTTP request with resource:AddPlaceAPI Method:POST
+22:45:11.628 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside API calls got success with status code:200
+22:45:11.629 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside response body key value:status Expected value: OK
+22:45:11.644 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside response body key value:scope Expected value: APP
+22:45:11.674 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside User calls HTTP request with resource:getPlaceAPI Method:GET
+22:45:12.563 [main] INFO  stepDefinitions.AddPlaceStepDefinitions - Inside Verify place ID is crerated Expected Name:Dhanaji Resource: getPlaceAPI
+22:59:18.179 [main] INFO  resources.Utils - Inside CreateRequestSpecification(): io.restassured.internal.RequestSpecificationImpl@1386313f
+22:59:18.235 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Habanhouse Language:Marathi AddressSun City mart mall Phone number(+91) 983 893 3900 Web sitehttps://bamburda.com
+22:59:22.911 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Dhanaji Language:Maratha AddressPune City mart mall Phone number(+91) 983 893 3900 Web sitehttps://bamburda.com
+23:00:49.648 [main] INFO  resources.Utils - Inside CreateRequestSpecification(): io.restassured.internal.RequestSpecificationImpl@6c6017b9
+23:00:49.724 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Habanhouse Language:Marathi AddressSun City mart mall Phone number(+91) 983 893 3900 Web sitehttps://bamburda.com
+23:00:54.071 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Dhanaji Language:Maratha AddressPune City mart mall Phone number(+91) 983 893 3900 Web sitehttps://bamburda.com
+23:04:24.823 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Habanhouse Language:Marathi AddressSun City mart mall Phone number(+91) 983 893 3900 Web sitehttps://bamburda.com
+23:04:29.523 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Dhanaji Language:Maratha AddressPune City mart mall Phone number(+91) 983 893 3900 Web sitehttps://bamburda.com
+16:05:05.291 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Habanhouse Language:Marathi AddressSun City mart mall Phone number(+91) 983 893 3900 Web sitehttps://bamburda.com
+16:05:12.046 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Dhanaji Language:Maratha AddressPune City mart mall Phone number(+91) 983 893 3900 Web sitehttps://bamburda.com
+15:32:42.913 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Habanhouse Language:Marathi AddressSun City mart mall Phone number(+91) 983 893 3900 Web sitehttps://bamburda.com
+15:32:50.264 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Dhanaji Language:Maratha AddressPune City mart mall Phone number(+91) 983 893 3900 Web sitehttps://bamburda.com
+16:48:53.472 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Habanhouse Language:Marathi AddressSun City mart mall Phone number(+91) 983 893 3900 Web sitehttps://bamburda.com
+16:48:54.999 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Dhanaji Language:Maratha AddressPune City mart mall Phone number(+91) 983 893 3900 Web sitehttps://bamburda.com
+16:58:37.800 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Habanhouse Language:Marathi AddressSun City mart mall Phone number(+91) 983 893 3900 Web sitehttps://bamburda.com
+16:58:39.216 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Dhanaji Language:Maratha AddressPune City mart mall Phone number(+91) 983 893 3900 Web sitehttps://bamburda.com
+17:00:44.802 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Habanhouse Language:Marathi AddressSun City mart mall Phone number(+91) 983 893 3900 Web sitehttps://bamburda.com
+17:00:46.067 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Dhanaji Language:Maratha AddressPune City mart mall Phone number(+91) 983 893 3900 Web sitehttps://bamburda.com
+17:03:46.714 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Habanhouse Language:Marathi AddressSun City mart mall Phone number(+91) 983 893 3900 Web sitehttps://bamburda.com
+17:03:53.263 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Dhanaji Language:Maratha AddressPune City mart mall Phone number(+91) 983 893 3900 Web sitehttps://bamburda.com
+20:33:07.177 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Habanhouse Language:Marathi AddressSun City mart mall Phone number(+91) 983 893 3900 Web sitehttps://bamburda.com
+20:33:19.732 [main] INFO  resources.TestDataBuild - Inside TestDataBulild() : Dhanaji Language:Maratha AddressPune City mart mall Phone number(+91) 983 893 3900 Web sitehttps://bamburda.com
+10:15:27.602 [main] ERROR stepDefinitions.AddPlaceStepDefinitions - io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+10:15:27.613 [main] ERROR stepDefinitions.AddPlaceStepDefinitions - io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+10:15:27.784 [main] ERROR stepDefinitions.AddPlaceStepDefinitions - io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+10:15:27.785 [main] ERROR stepDefinitions.AddPlaceStepDefinitions - io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+10:17:07.746 [main] ERROR stepDefinitions.AddPlaceStepDefinitions - io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+10:17:07.753 [main] ERROR stepDefinitions.AddPlaceStepDefinitions - io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+10:17:07.928 [main] ERROR stepDefinitions.AddPlaceStepDefinitions - io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+10:17:07.929 [main] ERROR stepDefinitions.AddPlaceStepDefinitions - io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+10:24:10.007 [main] ERROR resources.Utils - io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+10:24:10.015 [main] ERROR resources.Utils - io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+10:24:10.017 [main] ERROR resources.Utils - io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+10:24:12.905 [main] ERROR resources.Utils - io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+10:24:12.906 [main] ERROR resources.Utils - io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+10:24:12.907 [main] ERROR resources.Utils - io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+10:28:16.950 [main] ERROR resources.Utils - io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+10:28:16.957 [main] ERROR resources.Utils - io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+10:28:16.958 [main] ERROR resources.Utils - io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+10:28:19.480 [main] ERROR resources.Utils - io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+10:28:19.481 [main] ERROR resources.Utils - io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+10:28:19.482 [main] ERROR resources.Utils - io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document
+14:59:34.074 [main] ERROR resources.Utils - io.restassured.path.json.JsonPath$ExceptionCatcher.invoke(JsonPath.java:1002)
+io.restassured.path.json.JsonPath$4.doParseWith(JsonPath.java:967)
+io.restassured.path.json.JsonPath$JsonParser.parseWith(JsonPath.java:1047)
+io.restassured.path.json.JsonPath.get(JsonPath.java:202)
+resources.Utils.getJsonPath(Utils.java:75)
+stepDefinitions.AddPlaceStepDefinitions.verify_place_id_created_maps_to_using(AddPlaceStepDefinitions.java:142)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:568)
+io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+io.cucumber.java.Invoker.invoke(Invoker.java:24)
+io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84)
+io.cucumber.core.runner.TestStep.run(TestStep.java:56)
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)
+io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137)
+io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137)
+io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)
+io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:568)
+org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+org.testng.TestRunner.privateRun(TestRunner.java:848)
+org.testng.TestRunner.run(TestRunner.java:621)
+org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+org.testng.SuiteRunner.run(SuiteRunner.java:336)
+org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+org.testng.TestNG.runSuites(TestNG.java:1114)
+org.testng.TestNG.run(TestNG.java:1082)
+org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+
+14:59:35.073 [main] ERROR resources.Utils - io.restassured.path.json.JsonPath$ExceptionCatcher.invoke(JsonPath.java:1002)
+io.restassured.path.json.JsonPath$4.doParseWith(JsonPath.java:967)
+io.restassured.path.json.JsonPath$JsonParser.parseWith(JsonPath.java:1047)
+io.restassured.path.json.JsonPath.get(JsonPath.java:202)
+resources.Utils.getJsonPath(Utils.java:75)
+stepDefinitions.AddPlaceStepDefinitions.verify_place_id_created_maps_to_using(AddPlaceStepDefinitions.java:142)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:568)
+io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+io.cucumber.java.Invoker.invoke(Invoker.java:24)
+io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84)
+io.cucumber.core.runner.TestStep.run(TestStep.java:56)
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)
+io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137)
+io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137)
+io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)
+io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:568)
+org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+org.testng.TestRunner.privateRun(TestRunner.java:848)
+org.testng.TestRunner.run(TestRunner.java:621)
+org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+org.testng.SuiteRunner.run(SuiteRunner.java:336)
+org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+org.testng.TestNG.runSuites(TestNG.java:1114)
+org.testng.TestNG.run(TestNG.java:1082)
+org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+
+15:10:05.096 [main] ERROR resources.Utils - io.restassured.path.json.JsonPath$ExceptionCatcher.invoke(JsonPath.java:1002)
+io.restassured.path.json.JsonPath$4.doParseWith(JsonPath.java:967)
+io.restassured.path.json.JsonPath$JsonParser.parseWith(JsonPath.java:1047)
+io.restassured.path.json.JsonPath.get(JsonPath.java:202)
+resources.Utils.getJsonPath(Utils.java:75)
+stepDefinitions.AddPlaceStepDefinitions.verify_place_id_created_maps_to_using(AddPlaceStepDefinitions.java:149)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:568)
+io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+io.cucumber.java.Invoker.invoke(Invoker.java:24)
+io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84)
+io.cucumber.core.runner.TestStep.run(TestStep.java:56)
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)
+io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137)
+io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137)
+io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)
+io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:568)
+org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+org.testng.TestRunner.privateRun(TestRunner.java:848)
+org.testng.TestRunner.run(TestRunner.java:621)
+org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+org.testng.SuiteRunner.run(SuiteRunner.java:336)
+org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+org.testng.TestNG.runSuites(TestNG.java:1114)
+org.testng.TestNG.run(TestNG.java:1082)
+org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+
+15:10:06.072 [main] ERROR resources.Utils - io.restassured.path.json.JsonPath$ExceptionCatcher.invoke(JsonPath.java:1002)
+io.restassured.path.json.JsonPath$4.doParseWith(JsonPath.java:967)
+io.restassured.path.json.JsonPath$JsonParser.parseWith(JsonPath.java:1047)
+io.restassured.path.json.JsonPath.get(JsonPath.java:202)
+resources.Utils.getJsonPath(Utils.java:75)
+stepDefinitions.AddPlaceStepDefinitions.verify_place_id_created_maps_to_using(AddPlaceStepDefinitions.java:149)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:568)
+io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+io.cucumber.java.Invoker.invoke(Invoker.java:24)
+io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84)
+io.cucumber.core.runner.TestStep.run(TestStep.java:56)
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)
+io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137)
+io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137)
+io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)
+io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:568)
+org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+org.testng.TestRunner.privateRun(TestRunner.java:848)
+org.testng.TestRunner.run(TestRunner.java:621)
+org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+org.testng.SuiteRunner.run(SuiteRunner.java:336)
+org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+org.testng.TestNG.runSuites(TestNG.java:1114)
+org.testng.TestNG.run(TestNG.java:1082)
+org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+
+15:10:56.071 [main] ERROR resources.Utils - io.restassured.path.json.JsonPath$ExceptionCatcher.invoke(JsonPath.java:1002)
+io.restassured.path.json.JsonPath$4.doParseWith(JsonPath.java:967)
+io.restassured.path.json.JsonPath$JsonParser.parseWith(JsonPath.java:1047)
+io.restassured.path.json.JsonPath.get(JsonPath.java:202)
+resources.Utils.getJsonPath(Utils.java:75)
+stepDefinitions.AddPlaceStepDefinitions.verify_place_id_created_maps_to_using(AddPlaceStepDefinitions.java:149)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:568)
+io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+io.cucumber.java.Invoker.invoke(Invoker.java:24)
+io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84)
+io.cucumber.core.runner.TestStep.run(TestStep.java:56)
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)
+io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137)
+io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137)
+io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)
+io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:568)
+org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+org.testng.TestRunner.privateRun(TestRunner.java:848)
+org.testng.TestRunner.run(TestRunner.java:621)
+org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+org.testng.SuiteRunner.run(SuiteRunner.java:336)
+org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+org.testng.TestNG.runSuites(TestNG.java:1114)
+org.testng.TestNG.run(TestNG.java:1082)
+org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+
+15:10:57.105 [main] ERROR resources.Utils - io.restassured.path.json.JsonPath$ExceptionCatcher.invoke(JsonPath.java:1002)
+io.restassured.path.json.JsonPath$4.doParseWith(JsonPath.java:967)
+io.restassured.path.json.JsonPath$JsonParser.parseWith(JsonPath.java:1047)
+io.restassured.path.json.JsonPath.get(JsonPath.java:202)
+resources.Utils.getJsonPath(Utils.java:75)
+stepDefinitions.AddPlaceStepDefinitions.verify_place_id_created_maps_to_using(AddPlaceStepDefinitions.java:149)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:568)
+io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+io.cucumber.java.Invoker.invoke(Invoker.java:24)
+io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84)
+io.cucumber.core.runner.TestStep.run(TestStep.java:56)
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+io.cucumber.core.runner.TestCase.run(TestCase.java:84)
+io.cucumber.core.runner.Runner.runPickle(Runner.java:75)
+io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132)
+io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137)
+io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23)
+io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137)
+io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129)
+io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:568)
+org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+org.testng.TestRunner.privateRun(TestRunner.java:848)
+org.testng.TestRunner.run(TestRunner.java:621)
+org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+org.testng.SuiteRunner.run(SuiteRunner.java:336)
+org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+org.testng.TestNG.runSuites(TestNG.java:1114)
+org.testng.TestNG.run(TestNG.java:1082)
+org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+

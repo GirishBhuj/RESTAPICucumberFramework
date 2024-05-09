@@ -29,7 +29,7 @@ public class Utils {
 		if(mReqSepc==null)
 		{
 		PrintStream log =new PrintStream(new FileOutputStream("logging.txt"));
-		
+	
 		mReqSepc=new RequestSpecBuilder().
 				setBaseUri(getGlobalValue("baseUrl")).
 				addQueryParam("key", "qaclick123").

@@ -27,7 +27,7 @@ Body:
     ]
 }
 HTTP/1.1 200 OK
-Date: Wed, 08 May 2024 10:38:21 GMT
+Date: Thu, 09 May 2024 11:34:51 GMT
 Server: Apache/2.4.52 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
@@ -40,17 +40,17 @@ Content-Type: application/json;charset=UTF-8
 
 {
     "status": "OK",
-    "place_id": "e5904bc76bfc38311ead3d3f3c089e69",
+    "place_id": "a8a59a6f5b13665f1eb9b0e142d43195",
     "scope": "APP",
-    "reference": "cd5a81e3c1e8aac37ba52185e95e4d18cd5a81e3c1e8aac37ba52185e95e4d18",
-    "id": "cd5a81e3c1e8aac37ba52185e95e4d18"
+    "reference": "257852d64c7dd70468df52ab85f7893d257852d64c7dd70468df52ab85f7893d",
+    "id": "257852d64c7dd70468df52ab85f7893d"
 }
 Request method:	GET
-Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&Tplace_id=e5904bc76bfc38311ead3d3f3c089e69
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=a8a59a6f5b13665f1eb9b0e142d43195
 Proxy:			<none>
 Request params:	<none>
 Query params:	key=qaclick123
-				Tplace_id=e5904bc76bfc38311ead3d3f3c089e69
+				place_id=a8a59a6f5b13665f1eb9b0e142d43195
 Form params:	<none>
 Path params:	<none>
 Headers:		Accept=*/*
@@ -59,16 +59,30 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 200 OK
-Date: Wed, 08 May 2024 10:38:23 GMT
+Date: Thu, 09 May 2024 11:34:53 GMT
 Server: Apache/2.4.52 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
 Access-Control-Max-Age: 3600
 Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
-Content-Length: 0
+Content-Length: 246
 Keep-Alive: timeout=5, max=100
 Connection: Keep-Alive
-Content-Type: application/json; charset=UTF-8
+Content-Type: application/json;charset=UTF-8
+
+{
+    "location": {
+        "latitude": "-38.383494",
+        "longitude": "33.427362"
+    },
+    "accuracy": "60",
+    "name": "Habanhouse",
+    "phone_number": "(+91) 983 893 3900",
+    "address": "Sun City mart mall",
+    "types": "shoe park,shop",
+    "website": "https://bamburda.com",
+    "language": "Marathi"
+}
 Request method:	POST
 Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
 Proxy:			<none>
@@ -83,11 +97,11 @@ Multiparts:		<none>
 Body:
 {
     "accuracy": 60,
-    "name": "Dhanaji",
+    "name": "Mambaji",
     "phone_number": "(+91) 983 893 3900",
-    "address": "Pune City mart mall",
+    "address": "Pune shahar mart mall",
     "website": "https://bamburda.com",
-    "language": "Maratha",
+    "language": "Dhangar",
     "location": {
         "lat": -38.383494,
         "lng": 33.427362
@@ -98,7 +112,7 @@ Body:
     ]
 }
 HTTP/1.1 200 OK
-Date: Wed, 08 May 2024 10:38:24 GMT
+Date: Thu, 09 May 2024 11:34:54 GMT
 Server: Apache/2.4.52 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
@@ -111,17 +125,17 @@ Content-Type: application/json;charset=UTF-8
 
 {
     "status": "OK",
-    "place_id": "58e1b2cdad72c421d7c446f117496fd4",
+    "place_id": "8755802c0ffb03d7e773fefc4e4f46fb",
     "scope": "APP",
-    "reference": "72c97e59a942368343bed18bf2b94f3472c97e59a942368343bed18bf2b94f34",
-    "id": "72c97e59a942368343bed18bf2b94f34"
+    "reference": "830258c2cbd2067c316e9e81967aa47b830258c2cbd2067c316e9e81967aa47b",
+    "id": "830258c2cbd2067c316e9e81967aa47b"
 }
 Request method:	GET
-Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&Tplace_id=58e1b2cdad72c421d7c446f117496fd4
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=8755802c0ffb03d7e773fefc4e4f46fb
 Proxy:			<none>
 Request params:	<none>
 Query params:	key=qaclick123
-				Tplace_id=58e1b2cdad72c421d7c446f117496fd4
+				place_id=8755802c0ffb03d7e773fefc4e4f46fb
 Form params:	<none>
 Path params:	<none>
 Headers:		Accept=*/*
@@ -130,13 +144,27 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 200 OK
-Date: Wed, 08 May 2024 10:38:24 GMT
+Date: Thu, 09 May 2024 11:34:54 GMT
 Server: Apache/2.4.52 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
 Access-Control-Max-Age: 3600
 Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
-Content-Length: 0
+Content-Length: 246
 Keep-Alive: timeout=5, max=100
 Connection: Keep-Alive
-Content-Type: application/json; charset=UTF-8
+Content-Type: application/json;charset=UTF-8
+
+{
+    "location": {
+        "latitude": "-38.383494",
+        "longitude": "33.427362"
+    },
+    "accuracy": "60",
+    "name": "Mambaji",
+    "phone_number": "(+91) 983 893 3900",
+    "address": "Pune shahar mart mall",
+    "types": "shoe park,shop",
+    "website": "https://bamburda.com",
+    "language": "Dhangar"
+}

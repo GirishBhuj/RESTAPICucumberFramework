@@ -22,7 +22,7 @@ public class ExtentManager {
 			d = new Date();
 			String dat = d.toString().replace(" ", "_").replace(":", "_");
 			if (report ==null) {
-				report = new ExtentSparkReporter(System.getProperty("user.dir")+"\\ExtentReport\\Redifmail"+"_"+dat+".html");
+				report = new ExtentSparkReporter(System.getProperty("user.dir")+"\\ExtentReport\\Add Place API Testing"+"_"+dat+".html");
 				//Load the Configuration file
 				report.loadXMLConfig(System.getProperty("user.dir")+"\\ExtentReportConfig\\Report-Config.xml");
 			} 

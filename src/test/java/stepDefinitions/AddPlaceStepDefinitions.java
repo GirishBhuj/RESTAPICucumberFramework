@@ -79,19 +79,7 @@ public class AddPlaceStepDefinitions extends Utils {
 			}
 		}
 		else if(method.equalsIgnoreCase("GET")) {
-			mResponse =mReqSpec.when().get(resourceAPI.getResource());
-			mResponseStatusCode = mResponse.statusCode();
-			
-			if (mResponse.body().toString().contains("io.restassured.internal.RestAssuredResponseImpl"))
-			{
-				extLogger.log(Status.FAIL ,MarkupHelper.createLabel("Get method. Response Code: "+ mResponse.body().toString(),ExtentColor.RED));
-				extent.flush();
-				Assert.fail();		
-			}
-			else {
-				if ( mResponseStatusCode == 200 || mResponseStatusCode == 201)
-					extLogger.log(Status.INFO ,MarkupHelper.createLabel("Get method. Response code: "+ mResponseStatusCode,ExtentColor.BLUE));				
-			}
+			mResponse =mReqSpec.when().get(resourceAPI.getResource());			
 		}
 	}
 
@@ -141,29 +129,32 @@ public class AddPlaceStepDefinitions extends Utils {
 	@Then("verify place_Id created maps to {string} using {string}")
 	public void verify_place_id_created_maps_to_using(String expectedName, String resource) throws InterruptedException, IOException
 	{
-		if (mResponse.getStatusCode()== 200 || mResponse.getStatusCode()== 201) {
-		     place_id=getJsonPath(mResponse,"place_id");
-		     mReqSpec=given()
-		    		 .spec(CreateRequestSpecification())
-		    		 .queryParam("place_id",place_id);
+		String actualName="";
+		place_id="";
+		place_id=getJsonPath(mResponse,"place_id").trim();
+		     
+		mReqSpec=given()
+		    	.spec(CreateRequestSpecification())
+		    	.queryParam("place_id",place_id);
 
-		     user_calls_with_http_request(resource,"GET");		 
-		     String actualName=getJsonPath(mResponse,"name");
+		user_calls_with_http_request(resource,"GET");
+		String mTmpStr = mResponse.asString();
 
-		     String resp=mResponse.asString();			
-				//logger.info("Inside Verify place ID is crerated Expected Name:"+ expectedName + " Resource: "+resource);
-				if (actualName.equals(expectedName)){
+		     if (mTmpStr.contains("location")) {
+		    	 actualName=getJsonPath(mResponse,"name");
+		    	 if (actualName.equals(expectedName)){
 					extLogger.log(Status.INFO ,MarkupHelper.createLabel("Validating Place ID created: "+ 
-				expectedName + " Response"+ resp,ExtentColor.BLUE));
-				}
-			extent.flush();
-		}
-		else{
-			extLogger.log(Status.FAIL ,MarkupHelper.createLabel("Place ID not created. Response code: " +
-					mResponseStatusCode,ExtentColor.RED));
-			extent.flush();
-			Assert.fail();
-		}
+					expectedName + " Response"+ mTmpStr,ExtentColor.BLUE));
+					extent.flush();
+					Assert.assertTrue(true);
+		    	 }
+		     }
+		     else {
+					extLogger.log(Status.FAIL ,MarkupHelper.createLabel("Place ID not created. Response code: " +
+							mResponseStatusCode,ExtentColor.RED));
+					extent.flush();
+					Assert.fail();
+		     }
 		//assertEquals(actualName,expectedName);
 	}
 }
